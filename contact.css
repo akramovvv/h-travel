@@ -43,7 +43,7 @@ nav a:hover{color:var(--samarkand-gold)}
 nav a[aria-current="page"]{color:var(--samarkand-gold);font-weight:600}
 
 .hero{
-  background-image: url('./src/1674-1692186472.jpg');
+  background-image: url('./src/1674-1692186472.webp');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

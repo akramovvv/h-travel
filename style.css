@@ -6,7 +6,7 @@
       --muted: #faf9f6;
       --text: #1b1b1b;
       --card-radius: 16px;
-      --hero-image: url('src/hero.jpg');
+      --hero-image: url('src/hero.webp');
     }
     *{
         box-sizing:border-box;
@@ -39,7 +39,7 @@
     nav a{margin-left:0;text-decoration:none;color:var(--text);font-weight:500;transition:color .2s}
     nav a:hover{color:var(--samarkand-gold)}
     .hero{
-      background-image: url('./src/1674-1692186472.jpg');
+      background-image: url('./src/1674-1692186472.webp');
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
